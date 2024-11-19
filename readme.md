@@ -9,7 +9,6 @@ Follow these steps to set up and run the Filter-Service locally:
 
 1. **Node.js** (v16 or higher)  
 2. **npm** (v7 or higher) or **yarn**  
-3. **MongoDB** (if you're using it for the backend)
 
 ### Installation
 
@@ -95,7 +94,7 @@ This endpoint returns a list of items filtered by category.
 ### Backend
 
 - **Node.js with Express** was chosen for the backend due to its minimal, flexible framework, making it ideal for building APIs.  
-- **MongoDB** was chosen as the database for its scalability and flexibility in handling JSON-like data.
+- **Database** was stored in memory.
 
 ### Folder Structure
 
@@ -106,9 +105,7 @@ This endpoint returns a list of items filtered by category.
 
 ## Assumptions
 
-- The `category` parameter will always be provided in the GET request for `/api/items`.  
-- MongoDB is used and connected to the backend.  
-- The frontend expects the backend to respond with data in JSON format.  
+- The `category` parameter will always be provided in the GET request for `/api/items`.    
 - Basic error handling is implemented, but more comprehensive error handling may be needed for production.
 
 ---
