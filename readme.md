@@ -99,7 +99,7 @@ This endpoint returns a list of items filtered by category.
 
 ### Frontend
 
-- **React.js** was used to build the frontend due to its component-based architecture, which allows for easy maintenance and scalability.  
+- **React.js and Tailwind CSS** was used to build the frontend due to its component-based architecture, which allows for easy maintenance and scalability.  
 - **Axios** was used for HTTP requests to communicate with the backend, simplifying asynchronous communication.
 
 ### Backend
