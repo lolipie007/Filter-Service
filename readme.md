@@ -1,6 +1,16 @@
 
 # Filter-Service
 
+## Website 
+![Screenshot](./images/Screenshot%202024-11-19%20at%206.46.34%20PM.png)
+
+![Screenshot](./images/Screenshot%202024-11-19%20at%206.47.13%20PM.png)
+
+![Screenshot](./images/Screenshot%202024-11-19%20at%206.47.57%20PM.png)
+
+![Screenshot](./images/Screenshot%202024-11-19%20at%206.48.15%20PM.png)
+
+
 ## Setup Instructions
 
 Follow these steps to set up and run the Filter-Service locally:
@@ -81,6 +91,7 @@ This endpoint returns a list of items filtered by category.
       }
     ]
     ```
+- **Basic API Test**:
 ![Screenshot](./images/Screenshot%202024-11-19%20at%207.00.07%20PM.png)
 ---
 
