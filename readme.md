@@ -81,7 +81,7 @@ This endpoint returns a list of items filtered by category.
       }
     ]
     ```
-
+![Screenshot](./images/Screenshot%202024-11-19%20at%207.00.07%20PM.png)
 ---
 
 ## Design Choices
